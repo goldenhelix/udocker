@@ -1,6 +1,6 @@
 # Changelog
 
-## udocker (1.3.18) - 2024-12-19
+## udocker (1.3.18) - 2025-08-22
 
 * New environment variable `UDOCKER_SET_EXECUTION_MODE` and configuration parameter
   `set_execution_mode` to automatically set execution mode when running containers
